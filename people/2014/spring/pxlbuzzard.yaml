@@ -1,0 +1,18 @@
+# Game and web programming.
+- blog: http://blog.danieljost.com
+  feed: http://blog.danieljost.com/rss/
+  forges:
+    - http://github.com/PxlBuzzard
+    - https://npmjs.org/~pxlbuzzard
+  irc: PxlBuzzard
+  name: Daniel Jost
+  rit_dce: dpj7414
+  hackprop1: http://blog.danieljost.com/oculus-d-rift-project-proposal/
+  hackprop2: http://blog.danieljost.com/language-d-for-atom-proposal/
+  commcont1: http://blog.danieljost.com/community-contribution-bones/
+  hack1: http://blog.coldencullen.com/oculus-d-rift-the-implementation/
+  hackprop2: http://blog.danieljost.com/language-d-for-atom-proposal/
+  commcont2: http://blog.danieljost.com/community-contribution-devil-by-chiodos/
+  commcont3: http://blog.danieljost.com/community-contribution-dash/
+  finalweek: http://blog.danieljost.com/final-countdown-to-advfoss/
+  finalpost: http://blog.danieljost.com/goodbye-advfoss-hello-foss-minor/

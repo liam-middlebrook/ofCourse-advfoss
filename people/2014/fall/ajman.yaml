@@ -1,10 +1,11 @@
-- blog: http://www.andrewmandula.com/
-  feed: http://www.andrewmandula.com/tag/adv-foss/rss/
-  forges:
-    - http://github.com/ajman1101
-  irc: ajman
-  name: Andrew Mandula
-  rit_dce: ajm7770
+blog: http://www.andrewmandula.com/
+feed: http://www.andrewmandula.com/tag/adv-foss/rss/
+forges:
+  - http://github.com/ajman1101
+irc: ajman
+name: Andrew Mandula
+rit_dce: ajm7770
+hw:
   hackprop0: http://andrewmandula.com/adv-foss-hack-prop-0
   commcont0: http://andrewmandula.com/adv-foss-editing-wikipedia
   lightingtalk0: http://www.csh.rit.edu/~ajman/lightingtalk/comments

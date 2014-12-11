@@ -1,10 +1,11 @@
-- blog: https://fortnightblog.wordpress.com/
-  feed: https://fortnightblog.wordpress.com/feed/
-  forges:
-    - https://github.com/fortnight
-  irc: fortnight
-  name: Fernando Axel Ellis
-  rit_dce: fae6505
+blog: https://fortnightblog.wordpress.com/
+feed: https://fortnightblog.wordpress.com/feed/
+forges:
+  - https://github.com/fortnight
+irc: fortnight
+name: Fernando Axel Ellis
+rit_dce: fae6505
+hw:
   hackprop0: https://fortnightblog.wordpress.com/2014/09/01/first-project-proposal/
   hackprop1: https://fortnightblog.wordpress.com/2014/09/29/hackprop-1a-and-1b/
   hackervisit0: https://fortnightblog.wordpress.com/2014/10/07/hackervisit0/

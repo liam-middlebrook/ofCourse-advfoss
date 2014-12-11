@@ -1,11 +1,12 @@
-- blog: http://mtubinisadvfoss.wordpress.com/
-  feed: http://mtubinisadvfoss.wordpress.com/feed/
-  forges:
-    - http://github.com/mstubinis/
-    - http://bitbucket.org/mstubinis
-  irc: mtubinis
-  name: Michael Tubinis
-  rit_dce: mst6119
+blog: http://mtubinisadvfoss.wordpress.com/
+feed: http://mtubinisadvfoss.wordpress.com/feed/
+forges:
+  - http://github.com/mstubinis/
+  - http://bitbucket.org/mstubinis
+irc: mtubinis
+name: Michael Tubinis
+rit_dce: mst6119
+hw:
   hackprop0: http://mtubinisadvfoss.wordpress.com/2014/09/01/sprint-1-proposal/
   commcont0: http://mtubinisadvfoss.wordpress.com/2014/09/04/community-contribution/
   hack0: http://mtubinisadvfoss.wordpress.com/2014/09/25/sprint-1-success/

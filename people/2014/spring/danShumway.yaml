@@ -1,12 +1,13 @@
 # Hi!  I coppied this from threebean
-- blog: http://bridgeurl.com/danshumway-blogs
-  feed: http://www.rssmix.com/u/3886352/rss.xml
-  forges:
-    - https://github.com/danShumway
-    - http://bitbucket.org/danShumway
-  irc: danShumway
-  name: Daniel Shumway
-  rit_dce: drs7453
+blog: http://bridgeurl.com/danshumway-blogs
+feed: http://www.rssmix.com/u/3886352/rss.xml
+forges:
+  - https://github.com/danShumway
+  - http://bitbucket.org/danShumway
+irc: danShumway
+name: Daniel Shumway
+rit_dce: drs7453
+hw:
   hackprop1: http://blog.latinforimagination.com/what-im-up-to-timescrub-js/
   commcont1: http://danshumwayfoss.blogspot.com/2014/03/getting-started-with-contribution.html
   hack1: http://danshumwayfoss.blogspot.com/2014/03/timescrubjs.html

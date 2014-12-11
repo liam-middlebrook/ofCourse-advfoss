@@ -1,11 +1,12 @@
 # Heyo!  I'm Fangy. I like making cool things.
-- blog: http://nerdyworldproblems.wordpress.com/
-  feed: http://nerdyworldproblems.wordpress.com/feed/
-  forges:
-    - http://github.com/lle6138
-  irc: Fangy
-  name: Lindsey Ellis
-  rit_dce: lle6138
+blog: http://nerdyworldproblems.wordpress.com/
+feed: http://nerdyworldproblems.wordpress.com/feed/
+forges:
+  - http://github.com/lle6138
+irc: Fangy
+name: Lindsey Ellis
+rit_dce: lle6138
+hw:
   hackprop1: http://nerdyworldproblems.wordpress.com/2014/02/13/hack-proposal-1/
   hackprop2: http://nerdyworldproblems.wordpress.com/2014/03/22/hack-proposal-2-raindrop-py/
   hack1: http://nerdyworldproblems.wordpress.com/2014/03/16/pypi/
@@ -20,4 +21,4 @@
   #hackathon2: I went to the homestretch hackathon but havent made a blog post yet
   finalpreso: https://docs.google.com/presentation/d/19i3dqN7K98ELoEU7u4owL9yCO_9jgvLb6QKdC8bVVgI/edit?usp=sharing
   finalpost: http://nerdyworldproblems.wordpress.com/2014/05/14/my-pace/
-  
+

@@ -1,11 +1,12 @@
 # Sending a big shoutout to any NSA listeners out there! =P
-- blog: http://joeprezioso.wordpress.com/
-  feed: http://joeprezioso.wordpress.com/feeds/posts/default
-  forges:
-  - https://github.com/ArcticSphinx
-  irc: ArcticSphinx
-  name: Joseph Prezioso
-  rit_dce: jxp8159
+blog: http://joeprezioso.wordpress.com/
+feed: http://joeprezioso.wordpress.com/feeds/posts/default
+forges:
+- https://github.com/ArcticSphinx
+irc: ArcticSphinx
+name: Joseph Prezioso
+rit_dce: jxp8159
+hw:
   hackprop1: http://joeprezioso.wordpress.com/2014/02/13/joining-bark-tracker/
   commcont1: https://en.wikipedia.org/w/index.php?title=SaGa_%28series%29&diff=prev&oldid=597870230
   hack1: https://pypi.python.org/pypi/BarkTracker/0.1.0

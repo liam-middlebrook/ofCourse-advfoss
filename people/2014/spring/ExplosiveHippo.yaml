@@ -1,11 +1,12 @@
 # Lance Laughlin - 4th year NMID Student
-- blog: http://www.explosivehippo.wordpress.com/category/advancedfoss
-  feed: http://explosivehippo.wordpress.com/category/advancedfoss/feed/
-  forges:
-    - http://github.com/ExplosiveHippo
-  irc: ExplosiveHippo
-  name: Lance Laughlin
-  rit_dce: lxl1500
+blog: http://www.explosivehippo.wordpress.com/category/advancedfoss
+feed: http://explosivehippo.wordpress.com/category/advancedfoss/feed/
+forges:
+  - http://github.com/ExplosiveHippo
+irc: ExplosiveHippo
+name: Lance Laughlin
+rit_dce: lxl1500
+hw:
   hackprop1: http://explosivehippo.wordpress.com/2014/02/14/project-1-proposal/
   hack1: http://explosivehippo.wordpress.com/2014/03/05/hack-1/
   commcont1: http://explosivehippo.wordpress.com/2014/03/04/community-contriubtion-1/

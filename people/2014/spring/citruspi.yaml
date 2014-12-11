@@ -1,12 +1,13 @@
 # Hey, I'm citruspi
-- blog: http://advfoss.mihirsingh.com/
-  feed: http://advfoss.mihirsingh.com/atom.xml
-  forges:
-    - http://github.com/citruspi
-    - http://bitbucket.org/citruspi
-  irc: citruspi
-  name: Mihir Singh
-  rit_dce: mxs0000
+blog: http://advfoss.mihirsingh.com/
+feed: http://advfoss.mihirsingh.com/atom.xml
+forges:
+  - http://github.com/citruspi
+  - http://bitbucket.org/citruspi
+irc: citruspi
+name: Mihir Singh
+rit_dce: mxs0000
+hw:
   hackprop1: http://advfoss.mihirsingh.com/sprint-ia-proposal/
   commcont1: http://advfoss.mihirsingh.com/community-contribution-1/
   commcont2: http://advfoss.mihirsingh.com/community-contribution-2/

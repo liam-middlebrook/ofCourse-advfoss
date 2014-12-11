@@ -1,31 +1,26 @@
 course:
-    name: HFOSS
-    desc: The RIT Humanitarian Free/Open Source Software Development Course
+    name: ADVFOSS
+    desc: "RIT Advanced Projects Seminar where students develop tightly-scoped projects, released under Free/Open Source licenses."
     place: RIT
-    start: 2014-09-25
+    start: 2014-08-25
     end: 2014-12-10
-    times: Tues & Thurs 6:30PM - 7:45PM
-    course: 4085.582.01
-    location: Orange Hall (ORN)-1380
+    times: "Tues &amp; Thurs 5:00pm - 6:15pm"
+    course: "IGME-585"
+    location: "Orange Hall (ORN)-1380"
 
 instructor:
     name: Remy DeCausemaker
     email: remydcsi@rit.edu
-    irc: decause
     avatar: http://www.libravatar.org/user/5d9d0a14af042b2f7877ab58de9b7702ca29bb9d34155dc58eff4ff6509d562c.png
-    openhub: decause
-    coderwall: decause
-    twitter: Remy_D
+    ohloh: https://www.ohloh.net/accounts/40757
+    coderwall: https://coderwall.com/decause
+    twitter: https://twitter.com/Remy_D
     office:
         location: The MAGIC Center - SIH 1680
-        hours: Monday, Wednesday, 4:00-5:00pm
+        hours: "Tuesday + Thursday , 3:30-4:30pm"
     links:
         blog: http://foss.rit.edu/blog/decause
         linkedin: http://linkedin.com/in/decause
         github: http://github.com/decause
         opensource: http://opensource.com/users/remyd
 
-assistant:
-    name: Thunderdome
-    email: Thunderdome@foss.rit.edu
-    irc: Thunderdome
